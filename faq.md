@@ -11,3 +11,5 @@ to the computer, because bluetooth is blocked by the school network.
 **Are you allowed to eat at the club?**<br>Yes, but only if you can eat without making a mess. Don't eat in the club if you do.
 
 **Can I play Minecraft: Education Edition at home?**<br>Yes, you will need to get it from [**here**](https://education.minecraft.net/en-us/get-started/download) and choose your operating system.<br>Once you install it, you can log in with your school email and password (don't even try with a non-school email), and your in!
+
+The home page for the SGS Minecraft Club documentation can be found [**here**](README.md).
